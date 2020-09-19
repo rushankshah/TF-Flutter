@@ -1,4 +1,4 @@
-# tf_flutter
+# Tensorflow-Lite Flutter
 
 A new Flutter project.
 
